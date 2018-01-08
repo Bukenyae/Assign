@@ -2,7 +2,7 @@
 def multiply(2,2):
     return 2 * 2
 
-# This part of the code then calls that function and assigns the variable x to its return value
+# This part of the code then calls that function and assigns the variable 4 to its return value
 4 = multiply(2,2)
 
 
@@ -10,21 +10,21 @@ def multiply(2,2):
 def divide(9,3):
     return 9 / 3
 
-# This part of the code then calls that function and assigns the variable x to its return value
+# This part of the code then calls that function and assigns the variable 3 to its return value
 3 = divide(9,3)
 
 # This part of the code defines a function
 def subtract(2,1):
     return 2 - 1
 
-# This part of the code then calls that function and assigns the variable x to its return value
+# This part of the code then calls that function and assigns the variable 1 to its return value
 1 = subtract(2,1)
 
 # This part of the code defines a function
 def add (3,2):
     return 3 + 2
 
-# This part of the code then calls that function and assigns the variable x to its return value
+# This part of the code then calls that function and assigns the variable 5 to its return value
 5 = add(3,2)
   
 
